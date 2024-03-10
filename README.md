@@ -1,0 +1,1 @@
+This Python script is designed to automatically sort files into different folders based on their file extensions. It's a convenient tool for organizing cluttered directories by categorizing files into specified folders.
